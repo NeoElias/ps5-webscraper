@@ -1,0 +1,3 @@
+This project uses Python to scrape a Target product API URL path (in this example PS5 game console) and extracts availability information and notifies the user with an SMS using Twilio API when the product becomes available.
+
+To run this project locally, clone the repo and run the following command: `pip install -r requirements.txt` Note that you should have your environment set up for Python development prior to running. Additionally, you will need to set up a Twilio account to get authentication token. Instructions can be found here: https://www.twilio.com/docs/usage/tutorials/how-to-use-your-free-trial-account
